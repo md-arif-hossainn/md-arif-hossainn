@@ -13,4 +13,4 @@ Flutter ⦿ Kotlin ⦿ Dart ⦿ Android SDK ⦿ Cross-Platform Development ⦿ S
 🌟 App Developer | Open Source Enthusiast | Always Learning
 
 🤝 Let's connect and build something amazing!
-📧 Contact: md.arif.hossainn99@gmail.com | GitHub | LinkedIn
+📧 Contact: md.arif.hossainn99@gmail.com
