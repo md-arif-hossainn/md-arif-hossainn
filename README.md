@@ -8,7 +8,7 @@ Hello, I'm Md Arif Hossain
 
 🔧 Expertise:
 
-Flutter ⦿ Kotlin ⦿ Dart ⦿ Android SDK ⦿ Cross-Platform Development ⦿ SOLID Principles ⦿ MVVM ⦿ REST API Integration ⦿ Firebase ⦿ State Management (Riverpod, Provider) ⦿ Git ⦿ CI/CD ⦿ UI/UX Design ⦿ Code Optimization ⦿ And more
+Flutter ⦿ Kotlin ⦿ Dart ⦿ Android SDK ⦿ Cross-Platform Development ⦿ SOLID Principles ⦿ MVVM ⦿ REST API Integration ⦿ Firebase ⦿ State Management (Bloc, Riverpod) ⦿ Git ⦿ CI/CD ⦿ UI/UX Design ⦿ Code Optimization ⦿ And more
 
 🌟 App Developer | Open Source Enthusiast | Always Learning
 
