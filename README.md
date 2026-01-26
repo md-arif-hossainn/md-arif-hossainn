@@ -13,4 +13,4 @@ Clean, maintainable, and scalable code
 Contributing to real-world impactful apps
 Staying up-to-date with modern mobile development trends
 🔍 Let's Connect & Build Something Amazing Together!
-📧 Contact: md.arif.hossainn99@gmail.com
+📧 Contact: arif.dev24@gmail.com
